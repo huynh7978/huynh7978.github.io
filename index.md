@@ -3,32 +3,31 @@ layout: default
 ---
 <!-- no manual header below -->
 
-# Header 1
+## 📁 Featured Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Desktop Cleaner
+###🧹 Desktop Cleaner (Python)
+**May 2025**
 
-## Header 2
+A command-line utility that automatically organizes files on your desktop into folders by type (e.g., images, documents, executables).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Built using Python's `os` and `shutil` modules
+- Includes file type detection and conflict resolution
+- Helps reduce clutter and improve workflow
 
-### Header 3
+[🔗 View on GitHub](https://github.com/huynh7978/Desktop_Cleaner)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### ✅ To-Do App | C++  
+**May 2025**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+A command-line task management tool with advanced features and persistent storage, designed using object-oriented principles.
+
+- Built with a custom `Task` class, STL containers, and modular architecture  
+- Interactive CLI interface with task filtering and priority-based sorting  
+- Supports TXT, CSV, and JSON exports for task data  
+- 500+ lines of code with validation, statistics tracking, and logging  
+
+[🔗 View on GitHub](https://github.com/huynh7978/TODO-App)
 
 #### Header 4
 
