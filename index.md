@@ -5,7 +5,7 @@ layout: default
 
 ## 📁 Featured Projects
 
-###🧹 Desktop Cleaner (Python)
+### 🧹 Desktop Cleaner (Python)
 **May 2025**
 
 A command-line utility that automatically organizes files on your desktop into folders by type (e.g., images, documents, executables).
