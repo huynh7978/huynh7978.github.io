@@ -5,7 +5,6 @@ layout: default
 
 ## 📁 Featured Projects
 
-# Desktop Cleaner
 ###🧹 Desktop Cleaner (Python)
 **May 2025**
 
