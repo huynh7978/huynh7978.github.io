@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<!-- no manual header below -->
 
 # Header 1
 
