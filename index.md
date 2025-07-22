@@ -29,37 +29,20 @@ A command-line task management tool with advanced features and persistent storag
 [🔗 View on GitHub](https://github.com/huynh7978/TODO-App)
 * * *
 ### 🤖 Gundam Mobile Suit Database & Battle Simulator | C++  
-**June 2025**
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**July 2025**
 
-### Small image
+A text-based simulation that combines a searchable Gundam mobile suit database with a battle simulator, built using C and object-oriented programming.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+- Implemented using object-oriented design with inheritance hierarchies for different suit types
+- Features a robust database system with search, filter, and sort capabilities for 50+ mobile suits
+- Interactive battle simulator with stat-based combat, damage calculations, and victory conditions
+- Includes detailed pilot management system with experience tracking and skill progression
+- Custom data structures for efficient storage and retrieval of suit specifications and battle history
 
-### Large image
+[🔗 View on GitHub](https://github.com/huynh7978/Gundam-database-simulator)
+* * *
+## 📬 Contact
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- **Email**: [dennishuynh79@gmail.com](mailto:your.email@example.com)  
+- **GitHub**: [huynh7978](https://github.com/huynh7978)  
+- **LinkedIn**: [Dennis Huynh](https://www.linkedin.com/in/dennis-huynh-78022b33b/)
