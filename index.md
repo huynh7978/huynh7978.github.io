@@ -31,13 +31,13 @@ A command-line task management tool with advanced features and persistent storag
 ### 🤖 Gundam Mobile Suit Database & Battle Simulator | C++  
 **July 2025**
 
-A text-based simulation that combines a searchable Gundam mobile suit database with a battle simulator, built using C and object-oriented programming.
+A comprehensive console-based C project that showcases software engineering fundamentals through a themed simulation of Mobile Suit Gundam combat and management.
 
-- Implemented using object-oriented design with inheritance hierarchies for different suit types
-- Features a robust database system with search, filter, and sort capabilities for 50+ mobile suits
-- Interactive battle simulator with stat-based combat, damage calculations, and victory conditions
-- Includes detailed pilot management system with experience tracking and skill progression
-- Custom data structures for efficient storage and retrieval of suit specifications and battle history
+- Designed a full-featured **mobile suit database** with case-insensitive search, categorization, and custom suit creation  
+- Implemented a **turn-based battle simulator** using weighted randomization, damage tracking, and realistic combat algorithms  
+- Developed an **interactive CLI interface** with intuitive navigation, error handling, and data validation  
+- Included tools for **repair mechanics**, **faction performance statistics**, and **formatted reporting output**  
+- Modular, well-documented code structure with clear separation of concerns (UI, data, logic, utilities)
 
 [🔗 View on GitHub](https://github.com/huynh7978/Gundam-database-simulator)
 * * *
